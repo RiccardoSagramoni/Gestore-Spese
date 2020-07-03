@@ -1,5 +1,5 @@
 # Gestore Spese
-Progetto in Java di 3 cfu per il corso Programmazione Avanzata (Ingegneria Informatica, UniPi, A.A. 2019-20).
+Progetto in Java di 3 cfu per il corso Programmazione Avanzata (Ingegneria Informatica - UniPi, A.A. 2019-20).
 
 Nel file Documentazione.pdf è presente la documentazione del progetto, comprensiva di casi d'uso e schema UML delle classi.
 
